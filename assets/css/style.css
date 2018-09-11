@@ -1,0 +1,38 @@
+.title {
+	background-color: red;
+	color: white;
+	margin-bottom: 0%;
+}
+
+.label {
+	color: white;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+html {
+	background-color: rgba(32, 128, 206, 0.735);
+}
+
+#movie-bank {
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.container-fill {
+	background-color: rgba(32, 128, 206, 0.735);
+}
+
+.gif {
+	padding-top: 5%;
+	width: 200px;
+	height: 200px;
+
+	
+}
+
+figure {
+	float: left;
+	padding-left: 1.3%;
+}
+
