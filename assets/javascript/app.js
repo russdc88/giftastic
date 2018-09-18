@@ -47,7 +47,7 @@ $(document).on("click", "button", function () {
 
 	console.log(newTopic)
 
-	var newGirlUrl = "http://api.giphy.com/v1/gifs/search?q=new+girl+" + newTopic + "&api_key=CDShKlngqPnXqkad2QD187OWTLvwuYeN&limit=10"
+	var newGirlUrl = "https://api.giphy.com/v1/gifs/search?q=new+girl+" + newTopic + "&api_key=CDShKlngqPnXqkad2QD187OWTLvwuYeN&limit=10"
 
 	$.ajax({
 		url: newGirlUrl,
